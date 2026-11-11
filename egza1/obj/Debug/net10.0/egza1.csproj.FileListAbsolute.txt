@@ -1,0 +1,14 @@
+C:\exam1\egza1\bin\Debug\net10.0\egza1.exe
+C:\exam1\egza1\bin\Debug\net10.0\egza1.deps.json
+C:\exam1\egza1\bin\Debug\net10.0\egza1.runtimeconfig.json
+C:\exam1\egza1\bin\Debug\net10.0\egza1.dll
+C:\exam1\egza1\bin\Debug\net10.0\egza1.pdb
+C:\exam1\egza1\obj\Debug\net10.0\egza1.GeneratedMSBuildEditorConfig.editorconfig
+C:\exam1\egza1\obj\Debug\net10.0\egza1.AssemblyInfoInputs.cache
+C:\exam1\egza1\obj\Debug\net10.0\egza1.AssemblyInfo.cs
+C:\exam1\egza1\obj\Debug\net10.0\egza1.csproj.CoreCompileInputs.cache
+C:\exam1\egza1\obj\Debug\net10.0\egza1.dll
+C:\exam1\egza1\obj\Debug\net10.0\refint\egza1.dll
+C:\exam1\egza1\obj\Debug\net10.0\egza1.pdb
+C:\exam1\egza1\obj\Debug\net10.0\egza1.genruntimeconfig.cache
+C:\exam1\egza1\obj\Debug\net10.0\ref\egza1.dll
